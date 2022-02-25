@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         // login
 
         // registar
+
+        // esqueci-me da password
     }
 }
