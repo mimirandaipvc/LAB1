@@ -15,5 +15,11 @@ class MainActivity : AppCompatActivity() {
         //coisas do github
 
         // corrigir bug
+
+        // login
+
+        // registar
+
+        // esqueci-me da password
     }
 }
