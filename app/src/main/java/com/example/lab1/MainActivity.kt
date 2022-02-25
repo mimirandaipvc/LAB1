@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         // mais coisas
         
         //coisas do github
+
+        // corrigir bug
     }
 }
